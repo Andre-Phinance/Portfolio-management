@@ -1,5 +1,6 @@
 {
     "cSpell.words": [
+<<<<<<< HEAD
         "adam",
         "autotime",
         "cout",
@@ -15,5 +16,12 @@
         "ylim",
         "zlabel",
         "zlim"
+=======
+        "ARKK",
+        "Diversifiers",
+        "financials",
+        "vmax",
+        "vmin"
+>>>>>>> a0abc0b5a162f5c0b6790fab1dc38da541813eea
     ]
 }
